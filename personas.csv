@@ -1,0 +1,21 @@
+﻿id,nombre,apellido,edad,ciudad,ocupacion,estado_civil,correo,ingreso_mensual_COP
+1,Paula,Rodríguez,19,Cartagena,Diseñador,Soltero/a,paula.rodriguez@ejemplo.com,2470528
+2,Nicolás,Rodríguez,52,Bogotá,Comerciante,Casado/a,nicolás.rodriguez@ejemplo.com,1566612
+3,Ana,Rodríguez,31,Barranquilla,Técnico,Unión libre,ana.rodriguez@ejemplo.com,1522599
+4,Sebastián,López,59,Armenia,Contador,Soltero/a,sebastián.lopez@ejemplo.com,5068238
+5,Juliana,García,18,Cali,Contador,Casado/a,juliana.garcia@ejemplo.com,3630953
+6,María,López,39,Bogotá,Docente,Casado/a,maría.lopez@ejemplo.com,2111315
+7,Santiago,Jiménez,40,Santa Marta,Administrador,Soltero/a,santiago.jimenez@ejemplo.com,7421433
+8,Isabella,Vargas,25,Manizales,Docente,Unión libre,isabella.vargas@ejemplo.com,3759357
+9,Sara,Castro,57,Pereira,Comerciante,Soltero/a,sara.castro@ejemplo.com,7210376
+10,Juan,Gómez,60,Barranquilla,Administrador,Soltero/a,juan.gomez@ejemplo.com,8474925
+11,Daniel,Jiménez,24,Manizales,Administrador,Casado/a,daniel.jimenez@ejemplo.com,6632507
+12,Sara,Hernández,28,Pereira,Desarrollador,Soltero/a,sara.hernandez@ejemplo.com,6921836
+13,Valentina,Rojas,59,Bogotá,Comerciante,Unión libre,valentina.rojas@ejemplo.com,2735615
+14,Sebastián,Rojas,33,Cali,Enfermero,Casado/a,sebastián.rojas@ejemplo.com,3564486
+15,Tomás,Castro,53,Barranquilla,Desarrollador,Soltero/a,tomás.castro@ejemplo.com,3221394
+16,Sara,Gómez,38,Manizales,Administrador,Soltero/a,sara.gomez@ejemplo.com,3069852
+17,Tomás,Moreno,38,Barranquilla,Enfermero,Casado/a,tomás.moreno@ejemplo.com,6692632
+18,Isabella,Martínez,34,Cali,Diseñador,Unión libre,isabella.martinez@ejemplo.com,6009097
+19,Sebastián,García,55,Manizales,Comerciante,Casado/a,sebastián.garcia@ejemplo.com,4336646
+20,Daniel,Martínez,50,Bucaramanga,Docente,Soltero/a,daniel.martinez@ejemplo.com,2219803
